@@ -1,6 +1,6 @@
 import React from 'react';
 import Pane from '../containers/Pane'
-import Buttons from '../containers/Buttons'
+import Buttons from './Buttons'
 
 export default function () {
     return(
